@@ -1,0 +1,2 @@
+4 4 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0 .0 0
+this is the base input array, updated array can be found in target/WebApp-1.0-SNAPSHOT/markov_matrix.txt
